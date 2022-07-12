@@ -1,0 +1,406 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "poppins", sans-serif;
+  color: rgba(0, 0, 0, 0.62);
+  font-weight: 4500;
+  text-decoration: none;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+nav{
+  position: relative;
+  top:-10px;
+}
+.toplogo {
+  padding-top: 20px;
+  padding-left: 30px;
+  height: 62;
+  width: 420.43px;
+  left: 0px;
+  top: 1px;
+  border-radius: 0px;
+  position: relative;
+  top: 10px;
+  left: 15px;
+}
+.navigation {
+  display: flex;
+  justify-content: center;
+  margin-left: 30px;
+  align-items: center;
+  text-decoration: none;
+  font-size: 25px;
+  position: relative;
+  left: 210px;
+  top: -85px;
+}
+.usericon {
+  height: 66px;
+  width: 66px;
+  position: relative;
+  left: 1260px;
+  top: -60px;
+}
+.blog {
+  position: relative;
+  top: -25px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.quickscore {
+  position: relative;
+  top: -25px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.newspaper {
+  position: relative;
+  top: -25px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.home {
+  position: relative;
+  top: -25px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.botlogo {
+  padding-top: 20px;
+  padding-left: 30px;
+  width: 25%;
+  left: 0px;
+  top: 1px;
+  border-radius: 0px;
+  position: relative;
+  top: -80px;
+  left: 15px;
+}
+.locationlogo {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  left: -240px;
+  top: -13px;
+}
+.address {
+  position: relative;
+  width: 391px;
+  height: 114px;
+  left: 130px;
+  top: -46px;
+  font-family: "poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 119.52%;
+  letter-spacing: -0.025em;
+  color: #000000;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin-left:31px;
+}
+.emaillogo {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  left: 130px;
+  top: -64px;
+}
+.phonelogo {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  left: 130px;
+  top: -170px;
+}
+.email {
+  position: relative;
+  width: 391px;
+  height: 114px;
+  left: 130px;
+  top: -96px;
+  font-family: "poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 119.52%;
+  letter-spacing: -0.025em;
+  color: #000000;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin-left:31px;
+}
+.phone {
+  position: relative;
+  width: 391px;
+  height: 114px;
+  left: 130px;
+  top: -200px;
+  font-family: "poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 119.52%;
+  letter-spacing: -0.025em;
+  color: #000000;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin-left: 31px;
+}
+.head{
+  
+position: relative;
+width: 20%;
+left: 600px;
+top: -530px;
+font-family: "poppins", sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 32.7161px;
+line-height: 100.52%;
+/* or 33px */
+
+letter-spacing: -0.025em;
+
+color: #000000;
+
+}
+
+.privacycontent{
+  position: relative;
+width: 374px;
+height: 294px;
+left: 600px;
+top: -490px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 151.02%;
+letter-spacing: -0.025em;
+color: #000000;
+margin: 0;
+}
+.followus{
+    position: relative;
+    width: 20%;
+    left: 1000px;
+    top: -855px;
+    font-family: "poppins", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32.7161px;
+    line-height: 100.52%;
+    /* or 33px */
+    
+    letter-spacing: -0.025em;
+    
+    color: #000000;
+    
+    
+}
+.inst{
+  
+  position: relative;
+width: 374px;
+height: 294px;
+left: 1000px;
+top: -814px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 151.02%;
+/* or 49px */
+
+letter-spacing: -0.025em;
+color: #000000;
+
+}
+.box{
+    position: relative;
+    left:-499px;
+    top: -4px;
+width: 64px;
+height: 6px;
+background: #1B78F9;
+border-radius: 4px;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-top: 4px;
+}
+.heading{
+width: 1051.85px;
+height: 218px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 139.02%;
+display: block;
+margin-top: -60px;
+margin-left: auto;
+margin-right: auto;
+
+text-align: center;
+
+color: #000000;
+}
+.yepclickhere{
+    margin-left: -18px;
+}
+.yepclick{
+    width:90%;
+    position: relative;
+    left:90px;
+  
+}
+.yepclickbutton{
+  position:relative;
+  left:590px;
+  top: -125px;
+  width: 13%;
+}
+.blogbox{
+    position: relative;
+width: 717.42px;
+height: 182.05px;
+left: 87.01px;
+top: 550px;
+
+filter: drop-shadow(0px -3.50927px 19.301px rgba(0, 0, 0, 0.25));
+border: 1px solid #1768D7;
+height: 182.0481719970703px;
+width: 717.4238891601562px;
+left: 87.00726318359375px;
+top: 550px;
+border-radius: 39.458717346191406px;
+
+}
+.blogimg{
+position: relative;
+width: 40%;
+left: 86px;
+top: -70px;
+}
+.ipl{
+position: relative;
+width: 383.03px;
+height: 46px;
+left: -300px;
+top:-190px;
+font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 139.02%;
+color: #000000;
+}
+.iplinfo{
+    position: relative;
+left: 243px;
+top: -188px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size:18px;
+line-height: 139.02%;
+color: #474747;
+
+}
+.secondbox{
+    margin-top: -90px;
+}
+#adbox1{
+    height: 350px;
+
+}
+.adbox{
+    position: relative;
+width: 574px;
+height: 417px;
+left: px;
+top: -434px;
+float:right;
+margin-right: 90px;
+
+background: #FFFFFF;
+border: 5px solid #D3D3D3;
+box-sizing: border-box;
+border-radius: 27px;
+}
+.googlead{
+    position: absolute;
+width: 383.03px;
+height: 46px;
+left: 41px;
+top: 25px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32.93px;
+line-height: 139.02%;
+/* identical to box height, or 46px */
+
+
+color: rgba(0, 0, 0, 0.44);
+}
+.dot3{
+    
+position: absolute;
+top: 33px;
+left: 500px;
+width: 28px;
+height: 28px;
+}
+.ftxad{
+    
+position: absolute;
+top:90px;
+left: 45px;
+width: 476px;
+height: 230px;
+border-radius: 20px;
+}
+#adbox2{position: relative;
+    top: -45px;
+    left: 70px;
+    height: 700px;
+    
+}
+.zomatoad{
+position: absolute;
+left: 35px;
+top: 80px;
+width: 479px;
+height: 554px;
+border-radius: 32px;
+}
+.secondcolumn{
+    position: relative;
+    left: 600px;
+    top: -650px;
+
+}
+#seconcolum1{
+    margin-bottom: -60px;
+}
+.toremoveblankspace{
+  margin-top: -760px;
+  height: 100px;
+}

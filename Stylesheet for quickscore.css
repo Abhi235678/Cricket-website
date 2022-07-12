@@ -1,0 +1,319 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "poppins", sans-serif;
+  color: rgba(0, 0, 0, 0.62);
+  font-weight: 4500;
+  text-decoration: none;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+nav{
+  position: relative;
+  top:-10px;
+}
+.toplogo {
+  padding-top: 20px;
+  padding-left: 30px;
+  height: 62;
+  width: 420.43px;
+  left: 0px;
+  top: 1px;
+  border-radius: 0px;
+  position: relative;
+  top: 10px;
+  left: 15px;
+}
+.navigation {
+  display: flex;
+  justify-content: center;
+  margin-left: 30px;
+  align-items: center;
+  text-decoration: none;
+  font-size: 25px;
+  position: relative;
+  left: 210px;
+  top: -85px;
+}
+.usericon {
+  height: 66px;
+  width: 66px;
+  position: relative;
+  left: 1260px;
+  top: -60px;
+}
+.blog {
+  position: relative;
+  top: -25px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.quickscore {
+  position: relative;
+  top: -25px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.newspaper {
+  position: relative;
+  top: -25px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.home {
+  position: relative;
+  top: -25px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.botlogo {
+  padding-top: 20px;
+  padding-left: 30px;
+  width: 25%;
+  left: 0px;
+  top: 1px;
+  border-radius: 0px;
+  position: relative;
+  top: -80px;
+  left: 15px;
+}
+.locationlogo {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  left: -240px;
+  top: -13px;
+}
+.address {
+  position: relative;
+  width: 391px;
+  height: 114px;
+  left: 130px;
+  top: -46px;
+  font-family: "poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 119.52%;
+  letter-spacing: -0.025em;
+  color: #000000;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin-left:31px;
+}
+.emaillogo {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  left: 130px;
+  top: -64px;
+}
+.phonelogo {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  left: 130px;
+  top: -170px;
+}
+.email {
+  position: relative;
+  width: 391px;
+  height: 114px;
+  left: 130px;
+  top: -96px;
+  font-family: "poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 119.52%;
+  letter-spacing: -0.025em;
+  color: #000000;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin-left:31px;
+}
+.phone {
+  position: relative;
+  width: 391px;
+  height: 114px;
+  left: 130px;
+  top: -200px;
+  font-family: "poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 119.52%;
+  letter-spacing: -0.025em;
+  color: #000000;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin-left: 31px;
+}
+.head{
+  
+position: relative;
+width: 20%;
+left: 600px;
+top: -530px;
+font-family: "poppins", sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 32.7161px;
+line-height: 100.52%;
+/* or 33px */
+
+letter-spacing: -0.025em;
+
+color: #000000;
+
+}
+
+.privacycontent{
+  position: relative;
+width: 374px;
+height: 294px;
+left: 600px;
+top: -490px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 151.02%;
+letter-spacing: -0.025em;
+color: #000000;
+margin: 0;
+}
+.followus{
+    position: relative;
+    width: 20%;
+    left: 1000px;
+    top: -855px;
+    font-family: "poppins", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32.7161px;
+    line-height: 100.52%;
+    /* or 33px */
+    
+    letter-spacing: -0.025em;
+    
+    color: #000000;
+    
+    
+}
+.inst{
+  
+  position: relative;
+width: 374px;
+height: 294px;
+left: 1000px;
+top: -814px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 151.02%;
+/* or 49px */
+
+letter-spacing: -0.025em;
+color: #000000;
+
+}
+.box{
+    position: relative;
+    left:-387px;
+    top: -6px;
+width: 160px;
+height: 6px;
+background: #1B78F9;
+border-radius: 4px;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-top: 4px;
+}
+.yepclickhere{
+    margin-left: -18px;
+}
+.yepclick{
+    width:90%;
+    position: relative;
+    left:90px;
+  
+}
+.yepclickbutton{
+  position:relative;
+  left:584px;
+  top: -115px;
+  width: 15%;
+}
+#seconcolum1{
+    margin-bottom: -60px;
+}
+.matchbox{
+  height: 107px;
+width: 50%;
+margin-top: -37px;
+margin-left: 50px;
+border-radius: 26px;
+
+}
+.todaymatch{
+  position: relative;
+left: 227px;
+top:-66px;
+
+font-family: 'poppins', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 45.3629px;
+line-height: 97.02%;
+/* identical to box height, or 44px */
+
+letter-spacing: -0.025em;
+
+color: #000000;
+}
+.matchlist{
+ margin-top:10px ;
+}
+.matchteamname{
+  position: relative;
+top: -80px;
+margin-left: 90px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 28.0252px;
+line-height: 139.02%;
+/* identical to box height, or 39px */
+
+
+color: #494949;
+
+}
+#today{
+  margin-left: 270px;
+  margin-top: -39px;
+}
+#score{
+  margin-top:-39px ;
+  margin-left: 590px;
+}
+.scoreimg{
+  position: relative;
+  top: -575px;
+  left: 750px;
+}
+.toremoveblankspace{
+  margin-top: -550px;
+}
